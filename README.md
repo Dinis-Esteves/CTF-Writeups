@@ -1,2 +1,17 @@
 # CTF-Writeups
-CTF writeups and solve scripts
+
+CTF writeups and solve scripts. Flags are omitted.
+
+## Layout
+
+```
+<platform>/<challenge>/    # e.g. picoctf, thm, htb
+├── solve.py     # solver
+└── README.md    # writeup
+```
+
+## Index
+
+| Platform | Challenge                   | Category |
+|----------|-----------------------------|----------|
+| picoCTF  | [AutoRev](picoctf/autorev/) | Rev      |

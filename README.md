@@ -16,3 +16,4 @@ CTF writeups and solve scripts. Flags are omitted.
 |----------|-----------------------------------------|----------|
 | picoCTF  | [AutoRev](picoctf/autorev/)             | Rev      |
 | picoCTF  | [Silent Stream](picoctf/silent-stream/) | Rev      |
+| picoCTF  | [weirdSnake](picoctf/weirdsnake/)       | Rev      |

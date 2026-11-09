@@ -12,9 +12,10 @@ CTF writeups and solve scripts. Flags are omitted.
 
 ## Index
 
-| Platform | Challenge                                       | Category |
-|----------|-------------------------------------------------|----------|
-| picoCTF  | [AutoRev](picoctf/autorev/)                     | Rev      |
-| picoCTF  | [Silent Stream](picoctf/silent-stream/)         | Rev      |
-| picoCTF  | [weirdSnake](picoctf/weirdsnake/)               | Rev      |
-| picoCTF  | [Quantum Scrambler](picoctf/quantum-scrambler/) | Rev      |
+| Platform   | Challenge                                       | Category              |
+|------------|-------------------------------------------------|-----------------------|
+| picoCTF    | [AutoRev](picoctf/autorev/)                     | Rev                   |
+| picoCTF    | [Silent Stream](picoctf/silent-stream/)         | Rev                   |
+| picoCTF    | [weirdSnake](picoctf/weirdsnake/)               | Rev                   |
+| picoCTF    | [Quantum Scrambler](picoctf/quantum-scrambler/) | Rev                   |
+| HackTheBox | [Enigma](hackthebox/enigma/)                    | Machine (Linux, Easy) |
